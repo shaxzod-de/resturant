@@ -1,6 +1,6 @@
 import React from 'react'
 import './AppDownload.css'
-import { assets } from '../../assets/assets'
+import { assets } from '../../../dist/assets/assets'
 const AppDownload = () => {
   return (
     <div className='app-download' id='app-download'>
