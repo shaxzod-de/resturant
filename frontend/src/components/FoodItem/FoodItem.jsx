@@ -1,6 +1,6 @@
 import React,{ useContext } from 'react'
 import './FoodItem.css'
-import { assets } from '../../../dist/assets/assets'
+import { assets } from '../../assets/assets'
 import { StoreContext } from '../../context/StoreContext'
 
 
